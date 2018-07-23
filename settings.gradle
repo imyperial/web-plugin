@@ -1,0 +1,4 @@
+rootProject.name = 'web-plugin'
+
+include 'web-plugin-core'
+
